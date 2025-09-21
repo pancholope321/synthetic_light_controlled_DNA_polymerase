@@ -13,10 +13,12 @@ By controlling the polymerase with wave lenght we can accelerate and cheapen the
 1. Compare between cones and analize the diference between different detecting wavelenght cones
 
 	a) Check the structure to see obvious differences on the detecting structure
+	
 	b) If obvious differences see how to parameterize the critical areas (distances and aminoacids not the specific order)
 2. Find the parameters that determine the wavelenght that the cone detects
 
 	a) Check with theory and with data if there is an correlation between different parameters and wavelenght detection
+	
 	b) Resume the important parameters that correlates with the wavelenght detection
 3. Study how to design the cones to be reactive to a small wavelenght interval
 4. Design 4 cones with not interlapping wavelenght detection intervals
